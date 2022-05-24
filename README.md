@@ -1,4 +1,4 @@
-# LIBRARY CONNECT AND CREATE DATABSE WITH EntityFramework (Not Core)
+
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -31,10 +31,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/pyhteam/PYHDATA.NETFramework">
-    <img src="https://i.ibb.co/xY0pkjS/logo.png" alt="Logo" width="80" height="80">
+    
+    <a href="https://ibb.co/NrP8vj6"><img src="https://i.ibb.co/xY0pkjS/logo.png" alt="logo" width="80" height="80" border="0"></a>
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">LIBRARY CONNECT AND CREATE DATABSE WITH EntityFramework (Not Core)</h3>
 
   <p align="center">
     project_description
