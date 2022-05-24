@@ -31,8 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/pyhteam/PYHDATA.NETFramework">
-    
-    <a href="https://ibb.co/NrP8vj6"><img src="https://i.ibb.co/xY0pkjS/logo.png" alt="logo" width="80" height="80" border="0"></a>
+    <img src="https://i.ibb.co/xY0pkjS/logo.png" alt="logo" width="80" height="80" border="0">
   </a>
 
 <h3 align="center">LIBRARY CONNECT AND CREATE DATABSE WITH EntityFramework (Not Core)</h3>
